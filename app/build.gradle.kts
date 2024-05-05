@@ -1,4 +1,4 @@
-import com.android.build.api.dsl.LintOptions
+
 
 plugins {
     alias(libs.plugins.androidApplication)
